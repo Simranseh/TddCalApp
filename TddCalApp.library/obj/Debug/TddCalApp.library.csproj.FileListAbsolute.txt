@@ -1,0 +1,6 @@
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\bin\Debug\TddCalApp.library.dll
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\bin\Debug\TddCalApp.library.pdb
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.dll
+C:\Users\admin\OneDrive\Simra_Training\Web API\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.pdb
