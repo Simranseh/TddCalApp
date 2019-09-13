@@ -22,7 +22,7 @@ namespace TddCalApp.test
         {
             Calculator testCalculator = new Calculator();
             int num1 = -3;
-            int num2 = +2;
+            int num2 = +3;
             int result;
             result = testCalculator.Add(num1, num2);
             Assert.AreEqual(0, result, " Testing pair of positive and negative numbers ");
